@@ -8,6 +8,9 @@
 header {
     padding: 30px 35px;
     background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
   
 /* apply styles to <body> */
@@ -22,14 +25,12 @@ header {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
   }
   header a {
     text-decoration: none;
     color: #fce138;
   }
   header nav {
-    float: right;
     margin: 7px, 0, 7px, 0;
   }
   header nav ul li {
