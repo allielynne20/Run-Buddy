@@ -369,12 +369,18 @@ margin-bottom: 15px;
 }
 .trainer-1 {
   background-image: url("./images/trainer-12.jpg");
+  background-size: cover;
+  background-position: center;
 }
 .trainer-2 {
   background-image: url("./images/trainer-22.jpg");
+  background-size: cover;
+  background-position: center;
 }
 .trainer-3 {
   background-image: url("./images/trainer-32.jpg");
+  background-size: cover;
+  background-position: center;
 }
 .trainer-bio {
   padding: 25px;
